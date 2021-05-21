@@ -5,5 +5,6 @@ It was a problem statement given my the Govt. of goa that they were facing a pro
 and they had no proper system to track there alumnies. So we took the job under our command and started building this project.
 This project has the ability to not only track all the alumnies but also to interact with them via mail and SMS. Although It was a prototype so
 Only the clg can search student and Broadcast there message to the students at once via SMS , we can append a group chat feature to it 
-The major Downfall we can face is that if the Alumnies Dont update there profiles as it works on there Information feeded by them .
+The major Downfall we can face is that if the Alumnies Dont update there profiles as it works on there Information feeded by them then the information 
+will not be valide for that person.
 Both students and clg can register there and track there Alumnies.
